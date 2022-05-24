@@ -95,33 +95,15 @@
   "questionnaires": [
     {
       "id": "1",
-      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up",
-      "assignedDate": "2022-02-19T10:30:00:00Z",
-      "durationTime": "2022-02-19T10:30:00:00Z",
-      "language": "English",
-      "state": "notStarted",
-      "answeredQuestions": 0,
-      "totalQuestions": 16
+      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up"
     },
     {
       "id": "2",
-      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up",
-      "assignedDate": "2022-02-19T10:30:00:00Z",
-      "durationTime": "2022-02-19T10:30:00:00Z",
-      "language": "English",
-      "state": "inProgress",
-      "answeredQuestions": 7,
-      "totalQuestions": 16
+      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up"
     },
     {
       "id": "3",
-      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up",
-      "assignedDate": "2022-02-19T10:30:00:00Z",
-      "durationTime": "2022-02-19T10:30:00:00Z",
-      "language": "English",
-      "state": "completed",
-      "answeredQuestions": 16,
-      "totalQuestions": 16
+      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up"
     }
   ],
   "protocols": [
