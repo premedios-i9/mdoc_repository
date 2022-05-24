@@ -1,0 +1,193 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. med. Max Mustermann",
+      "availability": "2022-05-30T14:00:00.00Z",
+      "canConsultViaVideo": true,
+      "specialty": "Fachärztin für Haut- und Geschlechtskrankheiten",
+      "insuranceProtocols": [
+        "Kassenpatienten",
+        "Privatpatienten",
+        "Selbstzahler"
+      ],
+      "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+      "clinicName": "Passauer Wolf Reha-Zentrum",
+      "officeHours": "Allgemeine Sprechstunde",
+      "distance": "1.5"
+    },
+    {
+      "id": "2",
+      "name": "Dr. med. Max Mustermann",
+      "availability": "2022-05-30T14:00:00.00Z",
+      "canConsultViaVideo": true,
+      "specialty": "Fachärztin für Haut- und Geschlechtskrankheiten",
+      "insuranceProtocols": [
+        "Kassenpatienten",
+        "Privatpatienten",
+        "Selbstzahler"
+      ],
+      "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+      "clinicName": "Passauer Wolf Reha-Zentrum",
+      "officeHours": "Allgemeine Sprechstunde",
+      "distance": "1.5"
+    },
+    {
+      "name": "Dr. med. Max Mustermann",
+      "availability": "2022-05-30T14:00:00.00Z",
+      "canConsultViaVideo": true,
+      "specialty": "Fachärztin für Haut- und Geschlechtskrankheiten",
+      "insuranceProtocols": [
+        "Kassenpatienten",
+        "Privatpatienten",
+        "Selbstzahler"
+      ],
+      "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+      "clinicName": "Passauer Wolf Reha-Zentrum",
+      "officeHours": "Allgemeine Sprechstunde",
+      "distance": "1.5"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "doctors": [
+        {
+          "name": "Dr. med. Max Mustermann",
+          "availability": "2022-05-30T14:00:00.00Z",
+          "canConsultViaVideo": true,
+          "specialty": "Oncology",
+          "insuranceProtocols": [
+            "Kassenpatienten",
+            "Privatpatienten",
+            "Selbstzahler"
+          ],
+          "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+          "clinicName": "Passauer Wolf Reha-Zentrum",
+          "consultationHours": "Normal",
+          "distance": "1.5"
+        },
+        {
+          "name": "Dr. med. Rick Mustermann",
+          "availability": "2022-05-30T14:00:00.00Z",
+          "canConsultViaVideo": true,
+          "specialty": "Oncology",
+          "insuranceProtocols": [
+            "Kassenpatienten",
+            "Privatpatienten",
+            "Selbstzahler"
+          ],
+          "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+          "clinicName": "Passauer Wolf Reha-Zentrum",
+          "consultationHours": "Normal",
+          "distance": "1.5"
+        }
+      ],
+      "type": "video",
+      "attachedDocuments": [],
+      "hospitalEnquiry": "Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium doloremque laudantium, totam rem aperiam, eaque iste natus error sit",
+      "generalInstructions": "1) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n2) Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.\n3) Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.\n4) Non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n5) Aboris nisi ut aliquip ex ea commodo consequat.",
+      "specialInformation": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque.\nDolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.",
+      "startDateTime": "2022-05-30T10:00:00.002Z",
+      "endDateTime": "2022-05-30T10:30:00.00Z",
+      "calendar": {
+        "name": "me",
+        "color": "#783294"
+      }
+    },
+    {
+      "id": "2",
+      "doctors": [
+        {
+          "name": "Dr. med. Max Mustermann",
+          "availability": "2022-05-30T14:00:00.00Z",
+          "canConsultViaVideo": true,
+          "specialty": "Oncology",
+          "insuranceProtocols": [
+            "Kassenpatienten",
+            "Privatpatienten",
+            "Selbstzahler"
+          ],
+          "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+          "clinicName": "Passauer Wolf Reha-Zentrum",
+          "distance": "1.5",
+          "consultationHours": "Special"
+        }
+      ],
+      "type": "",
+      "attachedDocuments": [],
+      "hospitalEnquiry": "Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium doloremque laudantium, totam rem aperiam, eaque iste natus error sit",
+      "generalInstructions": "1) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n2) Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.\n3) Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.\n4) Non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n5) Aboris nisi ut aliquip ex ea commodo consequat.",
+      "specialInformation": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque.\nDolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.",
+      "startDateTime": "2022-05-30T14:00:00.002Z",
+      "endDateTime": "2022-05-30T15:00:00.00Z",
+      "calendar": {
+        "name": "family",
+        "color": "#E1A600"
+      }
+    },
+    {
+      "id": "3",
+      "doctors": [
+        {
+          "name": "Dr. med. Max Mustermann",
+          "availability": "2022-05-30T14:00:00.00Z",
+          "canConsultViaVideo": true,
+          "specialty": "Oncology",
+          "insuranceProtocols": [
+            "Kassenpatienten",
+            "Privatpatienten",
+            "Selbstzahler"
+          ],
+          "clinicAddress": "Wallrafplatz 1, 50667 Köln",
+          "clinicName": "Passauer Wolf Reha-Zentrum",
+          "consultationHours": "Special",
+          "distance": "1.5"
+        }
+      ],
+      "type": "",
+      "attachedDocuments": [],
+      "hospitalEnquiry": "Sed ut perspiciatis unde omnis iste natus error sit volupta tem accusantium doloremque laudantium, totam rem aperiam, eaque iste natus error sit",
+      "generalInstructions": "1) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n2) Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.\n3) Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.\n4) Non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n5) Aboris nisi ut aliquip ex ea commodo consequat.",
+      "specialInformation": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque.\nDolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.",
+      "startDateTime": "2022-06-01T14:00:00.002Z",
+      "endDateTime": "2022-06-01T15:00:00.00Z",
+      "calendar": {
+        "name": "office",
+        "color": "#6A7EBB"
+      }
+    }
+  ],
+  "questionnaires": [
+    {
+      "id": "1",
+      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up",
+      "assignedDate": "2022-02-19T10:30:00:00Z",
+      "durationTime": "2022-02-19T10:30:00:00Z",
+      "language": "English",
+      "state": "notStarted",
+      "answeredQuestions": 0,
+      "totalQuestions": 16
+    },
+    {
+      "id": "2",
+      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up",
+      "assignedDate": "2022-02-19T10:30:00:00Z",
+      "durationTime": "2022-02-19T10:30:00:00Z",
+      "language": "English",
+      "state": "inProgress",
+      "answeredQuestions": 7,
+      "totalQuestions": 16
+    },
+    {
+      "id": "3",
+      "questionnaireTitle": "Myocardial Infarction - Pre surgical special follow up",
+      "assignedDate": "2022-02-19T10:30:00:00Z",
+      "durationTime": "2022-02-19T10:30:00:00Z",
+      "language": "English",
+      "state": "completed",
+      "answeredQuestions": 16,
+      "totalQuestions": 16
+    }
+  ]
+}
