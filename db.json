@@ -189,5 +189,20 @@
       "answeredQuestions": 16,
       "totalQuestions": 16
     }
+  ],
+  "protocols": [
+    { "id": "1", "name": "Kassenpatienten" },
+    { "id": "2", "name": "Privatpatienten" },
+    { "id": "3", "name": "Selbstzahler" }
+  ],
+  "specialties": [
+    { "id": "1", "name": "Oncology" },
+    { "id": "2", "name": "Pediatrics" },
+    { "id": "3", "name": "Neurology" },
+    { "id": "4", "name": "Psycology" }
+  ],
+  "officeHours": [
+    { "id": "1", "name": "Normal" },
+    { "id": "2", "name": "Special" }
   ]
 }
